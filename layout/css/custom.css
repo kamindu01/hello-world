@@ -1,0 +1,148 @@
+header{
+	
+	height:78px;
+	background-color:#EFEFEF;
+	border-bottom:thin #ccc solid;
+	padding-top:10px;
+	padding-bottom:10px;
+	/*border: solid #000 thin;*/
+	
+	}
+	
+.footer{
+
+	
+	height:70px;
+	background-color:#EFEFEF;
+	border-top:thin #ccc solid;
+	padding-top:10px;
+	padding-bottom:10px;
+	text-align:center;
+	padding-top:40px;
+	
+	
+	}
+	
+.header-text{
+	
+	
+	margin:0;
+	margin-left:20px;
+
+
+	}
+.header-right{
+	float:right;
+	margin-right:30px;
+
+	
+	}
+	
+.header-right>a{
+	float:right;
+	margin-left:10px;
+	font-size:23px;
+	
+	}
+	
+	.left-nav{
+		
+	border:thin #ccc solid;
+	
+		
+		
+		}
+	
+.left-ul>li{
+	
+	border-bottom:thin #CCC solid !important;
+	padding:5px;
+	}
+	
+.active{
+	
+	text-decoration:underline !important;
+	
+	}
+.active>a{
+	color:#906 !important;
+	}
+	
+	.cus-ul{
+		
+	margin-right:10px;
+	 font-size:14px;
+	 cursor:pointer;
+	 text-decoration:none !important;
+	  
+	  	
+		}
+		
+	@media (max-width: 699px) {
+		
+		.cus-ul{ margin-left:270px !important;
+		margin-right:0px !important;
+		}
+		
+		}
+		
+		@media (max-width: 424px) {
+		
+		.cus-ul{ margin-left:220px !important;
+		margin-right:0px !important;
+		}
+                
+                .brbtn{margin-top: 5px;}
+		
+		}
+			@media (max-width:324px) {	
+		.cus-ul{ margin-left:170px !important;
+		margin-right:0px !important;
+		}
+		.xs{margin-top: 10px;}
+				
+		.table>tbody>tr>td,.table>tbody>tr>th,.table>tfoot>tr>td,.table>tfoot>tr>th,.table>thead>tr>td,.table>thead>tr>th{
+			
+			padding:0px !important;
+			
+			}
+		.smaller-break{
+			
+			margin-bottom:10px !important;
+			
+			}
+		}
+		
+                .wid{
+                    max-width: 125px !important;
+                }
+                .trnsaction{
+                    padding: 10px;
+                }
+                #HistoryTable{
+                    /*border: black 1px solid;*/
+                    height: 500px;
+                    overflow: auto;
+                }
+               
+                @media(max-width:767px){
+                    .break{margin-top: 10px;}
+                    .lWButton{margin-top: 10px;}
+                    
+                }              
+                @media(min-width:768px){
+                    .brbtn{display: none;}                   
+                    
+                }
+                @media(max-width:374px){
+                    .lWButton{margin-top: 0;}
+                }
+               
+                
+
+               
+                
+	
+			
+	
+	
