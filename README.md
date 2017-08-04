@@ -1,5 +1,3 @@
-# hello-world
+# Bellagio Admin Panel
 
-Hello World!
-
-I'm kamindu dushmantha,I like coding mostly php and web based laguages.
+This is the agents admin panel for bellagio casino.
