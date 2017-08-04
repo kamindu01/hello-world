@@ -1,2 +1,5 @@
 # hello-world
-my first repositary
+
+Hello World!
+
+I'm kamindu dushmantha,I like coding mostly php and web based laguages.
